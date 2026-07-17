@@ -2,12 +2,14 @@
 
 ## Overview
 
-This project implements a hybrid digital image tampering detection framework combining:
+This project implements a hybrid digital image tampering detection framework that combines traditional image forensics with Explainable Artificial Intelligence (XAI).
+
+## Features
 
 - Metadata Analysis
-- SHA-256 Integrity Verification
+- SHA-256 Hash Verification
 - Error Level Analysis (ELA)
-- Noise Analysis
+- Sensor Noise Analysis
 - JPEG Compression Analysis
 - Edge Artifact Detection
 - CNN-Based Tampering Detection
@@ -15,9 +17,15 @@ This project implements a hybrid digital image tampering detection framework com
 - Weighted Forensic Trust Score
 - Automated PDF Evidence Report
 
-## Author
+## Tech Stack
 
-Afshan XXXXX
+- Python 3.13
+- PyTorch
+- OpenCV
+- Pillow
+- ExifTool
+- ReportLab
+- VMware + Kali Linux
 
 ## Status
 
