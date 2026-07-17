@@ -17,7 +17,7 @@ This project implements a hybrid digital image tampering detection framework com
 
 ## Author
 
-Rahil XXXXX
+Afshan XXXXX
 
 ## Status
 
